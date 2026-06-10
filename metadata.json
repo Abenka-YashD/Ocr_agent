@@ -1,0 +1,6 @@
+{
+  "name": "AI Document OCR & Structured Extraction Agent",
+  "description": "An AI-powered document OCR and structured data categorization agent that processes images and PDFs into custom or preset CSV/JSON schemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
